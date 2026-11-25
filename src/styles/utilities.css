@@ -1,0 +1,8 @@
+.surface {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+}
+
+.muted-text {
+  color: var(--color-muted);
+}
